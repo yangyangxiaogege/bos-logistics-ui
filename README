@@ -1,0 +1,6 @@
+#BOS-Logistics-UI
+
+
+这是物流信息管理系统的UI层，运用技术：vue.js,vue-router,vuex,axios,webpack,elementUI等,
+整个应用使用了前端框架vue.js进行构建,在数据渲染上更加高效，另外组件化的开发，让一个大的项目
+变成一些小的个体组成，能够很好的重用，并且方便维护
